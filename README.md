@@ -30,15 +30,19 @@
 ### Local Setup:
 # Clone the repo
 git clone https://github.com/ARokad-X/Medicare.git
+
 ---
 
 # Install dependencies
-cd mitra-ai
 npm install
+
 ---
 
+
 # Start development server
+
 npm run dev 
+
 ---
 
 ## 📎 Resources / Credits
